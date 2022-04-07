@@ -25,23 +25,23 @@ echo %numb%
 
  : NOTE (READ) WHEN REPLACING THE PATHS, REMOVE THE ' SO IT ONLY SAYS THE PATH WITHOUT THE ' SYMBOLS SURROUNDING THEM!
 :rnd_1
-start /min '1st scipt path here'
+start /min discord_bot_agree.py
 goto done_rand
 
 :rnd_2
-start /min '2st scipt path here'
+start /min discord_bot_disagree.py
 goto done_rand
 
 :rnd_3
-start /min '3rd scipt path here'
+start /min discord_bot_generic.py
 goto done_rand
 
 :rnd_4
-start /min '4th scipt path here'
+start /min discord_bot_laugh.py
 goto done_rand
 
 :rnd_5
-start /min '5th scipt path here'
+start /min discord_bot_pwease.py
 goto done_rand
 
 
