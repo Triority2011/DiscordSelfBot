@@ -58,6 +58,6 @@ in there, head to **line 10** to modify the wait time between a random message b
 
 on **line 58** you can set the amount of times itll loop (set to -1 to deactivate and make it loop forever)
 
-If you want it to only send 1 message whatsoever, you can replace the 'pathe here' strings with the same path or decrase the %%x value on line 6 to 1, to make it only run line 1.
+If you want it to only send 1 message whatsoever, you can replace the 'pathe here' strings with the same path or decrase the %%x value on line 6 to 1, to make it only run script 1.
 
 And there you go, have fun while you can, bc if this gets pathed im not reworking this :3 
