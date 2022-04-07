@@ -1,3 +1,6 @@
+# WARNING!!!
+## Self Botting is against Discords TOS, use at your own risk!
+
 # DiscordSelfBot
 With this set of Batch and Python Scripts, you can send automated messages from your discord acount to any Server, Channel or DM you want.
 
