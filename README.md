@@ -1,0 +1,2 @@
+# DiscordSelfBot
+Desc, here lol
